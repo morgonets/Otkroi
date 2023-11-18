@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #4CAF50, #2196F3);
+    padding: 50px;
+    color: #fff;
+    margin: 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background: linear-gradient(to right, #FFD700, #FFA500);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#message {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #fff;
+}
